@@ -1,0 +1,13 @@
+:root {
+  --api-get: #1a7f37;
+  --api-post: #0969da;
+  --api-put: #9a6700;
+  --api-delete: #cf222e;
+}
+
+.dark {
+  --api-get: #2da44e;
+  --api-post: #2f81f7;
+  --api-put: #bf8700;
+  --api-delete: #f85149;
+}
